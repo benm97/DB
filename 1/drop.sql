@@ -1,0 +1,12 @@
+DROP TABLE Orders_VIP;
+DROP TABLE Orders;
+DROP TABLE First_class;
+DROP TABLE VIP;
+DROP TABLE Customer;
+DROP TABLE Seat;
+DROP TABLE Fly;
+DROP TABLE Pilot;
+DROP TABLE Flight;
+DROP TABLE Plane;
+ 
+
